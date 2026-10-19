@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="profile/lcc-research-logo.png" alt="LCC Research Lab" width="128">
+  <img src="lcc-research-logo.png" alt="LCC Research Lab" width="128">
 </p>
 
 # LCC Research Lab
